@@ -15,7 +15,7 @@ function besFruit() {
 besFruit();
 
 function countries() {
-  country = "Mexico";
+  country = "Mexico"; // global
   console.log(country);
 }
 countries();
